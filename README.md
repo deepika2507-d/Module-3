@@ -103,9 +103,11 @@ def remove(a):
             print(a[i],end='')
 ```
 OUTPUT:
+
 <img width="483" height="122" alt="image" src="https://github.com/user-attachments/assets/a431daa9-3eb7-44bb-90f5-ff443273d96f" />
 
 RESULT:
+
 Thus, the program was executed successfully
 
 
@@ -152,7 +154,9 @@ RESULT:
 Thus, the program was executed successfully.
 
 5. Tuple in Python: Check Element Existence
+
 🎯 Aim:
+
 To write a Python program that checks if the element 'n' and the element 8 exist within a given tuple.
 
 🧠 Algorithm:
@@ -165,9 +169,9 @@ To write a Python program that checks if the element 'n' and the element 8 exist
 
 4.Print the results.
 
+Program:
 
- Program:
- ```
+```
 tuplex = input()
 print("n" in tuplex)
 print("8" in tuplex)
@@ -178,5 +182,6 @@ Output:
 <img width="599" height="170" alt="image" src="https://github.com/user-attachments/assets/f4bf503d-b795-4d9b-b7c7-17baffd4d640" />
 
 RESULT:
+
 Thus, the program was executed successfully.
 
