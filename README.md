@@ -29,6 +29,7 @@ OUTPUT:
 
 
 RESULT:
+
 Thus the,Python program that calculates the sum of all elements in a list.
 
 2. Regex in Python: Filter Words Without the Letter 'e'
@@ -66,9 +67,10 @@ for i in items:
 print("Words without 'e':", l1)
 ```
 OUTPUT:
+
 <img width="508" height="163" alt="image" src="https://github.com/user-attachments/assets/dc04fa02-02fb-4d6b-b363-c15cd1add558" />
 
-3.strings-Remove Nth Index Character from a String
+3.Strings-Remove Nth Index Character from a String
 
 🎯 Aim:
 
