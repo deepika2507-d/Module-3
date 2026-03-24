@@ -1,14 +1,24 @@
 NAME: Deepika.V
+
+
 REGISTER NUMBER: 212224240030
+
 1. List Operations in Python: Sum of List Items
+
 🎯 Aim:
+
 To write a Python program that calculates the sum of all elements in a list.
 
 🧠 Algorithm:
+
 1.Define a list of numbers.
+
 2.Use Python’s built-in sum() function to calculate the total.
+
 3.Print the result.
+
 🧾 Program:
+
 ```
 items=[153,147,124,102]
 print(sum(items))
@@ -22,17 +32,27 @@ RESULT:
 Thus the,Python program that calculates the sum of all elements in a list.
 
 2. Regex in Python: Filter Words Without the Letter 'e'
+
 🎯 Aim:
+
 To write a Python program that filters out and returns all elements from a list that do not contain the letter 'e', using regular expressions (regex).
 
 🧠 Algorithm:
+
 1.Import the re module.
+
 2.Initialize an empty list l1 to store results.
+
 3.Define a list of words:
+
    items = ['goal', 'new', 'user', 'sit', 'eat', 'dinner']
+
 4.iterate through each word in the list:
+   
     Use re.search(r"e", i) to check if the word contains 'e'.
+    
     If not, append the word to l1.
+
 5.print the final filtered list.
 
 Program:
@@ -88,7 +108,9 @@ Thus, the program was executed successfully
 
 
 4.Strings-Palindrome Check in Python (Without Built-in Functions)
+
 🎯 Aim:
+
 To write a Python program to check whether the string "google" is a palindrome or not, without using built-in palindrome checking functions.
 
 🧠 Algorithm:
@@ -98,6 +120,7 @@ To write a Python program to check whether the string "google" is a palindrome o
 2.Reverse the string manually using slicing ([::-1]).
 
 3.Compare the original string with the reversed string
+
   If they are equal, print that the string is a palindrome.
 
   Otherwise, print that it is not a palindrome.
